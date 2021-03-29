@@ -23,6 +23,9 @@ npm run lint
 ### Docker
 #### Build image.
 ```
+git clone https://github.com/rangeldarosa/bbrf-dashboard.git; cd bbrf-dashboard;
+```
+```
 docker build . -t bbrf-dashboard;
 ```
 
